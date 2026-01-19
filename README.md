@@ -2,7 +2,7 @@
 
 > Enterprise-grade UI for Design of Experiments (DOE) using orthogonal arrays.
 
-This application provides a modern, high-performance interface for designing and analyzing experiments, powered by the [Taguchi](https://github.com/nickpaterno/taguchi) core library.
+This application provides a modern, high-performance interface for designing and analyzing experiments, powered by the [Taguchi](https://github.com/epistates/taguchi) core library.
 
 ## Tech Stack
 
